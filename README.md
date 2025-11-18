@@ -1,5 +1,5 @@
 # -Mahirajaveed
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Mahira khan and I'm a web development, from karachi</h2>
 
 ###
 
